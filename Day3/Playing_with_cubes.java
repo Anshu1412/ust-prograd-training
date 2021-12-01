@@ -1,0 +1,10 @@
+public class Cube{
+    // note: use primitive data type for the side of the cube
+    private int side=0;
+    public int getSide(){
+        return side;
+    }
+    public int setSide(int a){
+        return side=a;
+    }
+}
