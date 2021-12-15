@@ -1,0 +1,6 @@
+Dec 15, 2021 1:28:34 PM Currency main
+INFO: Program Started...
+Dec 15, 2021 1:28:40 PM Currency main
+INFO: User selected to convert INR to USD 678.0
+Dec 15, 2021 1:28:40 PM Currency main
+INFO: Program stopped ..
